@@ -1,0 +1,8 @@
+{
+  "name": "RevTech — Repairability & Ownership Intelligence",
+  "description": "Discover authentic smartphone spare parts, verified nearby repair centers, repairability indices, and AI-powered purchase and repair decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
